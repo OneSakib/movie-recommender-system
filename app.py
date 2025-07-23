@@ -21,8 +21,7 @@ def recommanded(movie):
         movie_id = i[0]
         # Fetch poster
         import requests
-        url = f"https://api.themoviedb.org/3/movie/{
-            movie_id}?api_key={MOVIES_DB}"
+        url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={MOVIES_DB}"
         headers = {"accept": "application/json"}
         response = requests.get(url, headers=headers)
         recommanded_movies.append(
