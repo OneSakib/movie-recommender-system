@@ -1,4 +1,4 @@
-# Movie Recommender System
+# 📝 Movie Recommender System
 
 In this project you can search movie and it will show you a suggestion.
 
