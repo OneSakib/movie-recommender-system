@@ -7,3 +7,9 @@ Built with:
 - 🚀 Pandas backend for handling PDF file uploads and summarization
 - 🌐 Streamlit frontend for easy-to-use web interface
 - 🧠 LangChain + LLMs for intelligent text summarization
+
+---
+## 📸 UI Screenshot
+![PDF Sumrizer UI](./ui.png)
+
+---
